@@ -1,5 +1,5 @@
 {
   "name": "S.Z.Z Media Station",
   "version": "1.0.0",
-  "parameter": "menu:data/menu.json"
+  "parameter": "menu:https://github.com/YShoun/msx/blob/main/data/menu.json"
 }

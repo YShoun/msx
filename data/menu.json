@@ -8,17 +8,17 @@
     {
       "icon": "#18aa9c:movie",
       "label": "Français",
-      "data": "data/content/fra.json"
+      "data": "https://github.com/YShoun/msx/blob/main/data/content/fra.json"
     },
     {
       "icon": "#18aa9c:movie",
       "label": "English",
-      "data": "data/content/en.json"
+      "data": "https://github.com/YShoun/msx/blob/main/data/content/en.json"
     },
     {
       "icon": "#18aa9c:movie",
       "label": "中文",
-      "data": "data/content/cn.json"
+      "data": "https://github.com/YShoun/msx/blob/main/data/contents/cn.json"
     }
   ]
 }
