@@ -1,5 +1,5 @@
 {
   "name": "S.Z.Z Media Station",
   "version": "1.0.0",
-  "parameter": "data/menu.json"
+  "parameter": "menu:data/menu.json"
 }
