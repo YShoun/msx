@@ -1,0 +1,25 @@
+{
+  "type": "menu",
+  "headline": "S.Z.Z Media Station",
+  "menu": [
+    {
+      "type": "separator",
+      "label": "Content Types"
+    },
+    {
+      "icon": "#18aa9c:movie",
+      "label": "Français",
+      "data": "data/content/fra.json"
+    },
+    {
+      "icon": "#18aa9c:movie",
+      "label": "English",
+      "data": "data/content/en.json"
+    },
+    {
+      "icon": "#18aa9c:movie",
+      "label": "中文",
+      "data": "data/content/cn.json"
+    }
+  ]
+}
