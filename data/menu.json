@@ -7,18 +7,15 @@
     },
     {
       "icon": "#18aa9c:movie",
-      "label": "Français",
-      "data": "https://github.com/YShoun/msx/blob/main/data/content/fra.json"
+      "label": "Français"
     },
     {
       "icon": "#18aa9c:movie",
-      "label": "English",
-      "data": "https://github.com/YShoun/msx/blob/main/data/content/en.json"
+      "label": "English"
     },
     {
       "icon": "#18aa9c:movie",
-      "label": "中文",
-      "data": "https://github.com/YShoun/msx/blob/main/data/contents/cn.json"
+      "label": "中文"
     }
   ]
 }
