@@ -1,1 +1,24 @@
-{}
+{
+  "type": "pages",
+  "headline": "Links",
+  "items": [
+    {
+      "title": "1Shows",
+      "tag": "Web",
+      "type": "separate",
+      "layout": "0,0,2,3",
+      "color": "msx-glass",
+      "icon": "https://1shows.nl/favicon.ico",
+      "action": "link:https://www.1shows.nl/"
+    },
+    {
+      "title": "CineBy",
+      "tag": "Web",
+      "type": "separate",
+      "layout": "0,0,2,3",
+      "color": "msx-glass",
+      "icon": "https://www.cineby.gd/favicon.ico",
+      "action": "link:https://www.cineby.gd/"
+    }
+  ]
+}
