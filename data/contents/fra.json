@@ -1,13 +1,16 @@
 {
   "type": "pages",
   "headline": "Links",
+  "template": {
+    "tag": "Web",
+    "type": "separate",
+    "layout": "0,0,2,3",
+    "icon": "msx-white-soft:public",
+    "color": "msx-glass"
+  },
   "items": [
     {
       "title": "Free TV",
-      "tag": "Web",
-      "type": "separate",
-      "layout": "0,0,2,3",
-      "color": "msx-glass",
       "action": "link:https://tv.free.fr/"
     }
   ]
