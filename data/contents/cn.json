@@ -1,1 +1,22 @@
-{}
+{
+  "type": "pages",
+  "headline": "Links",
+  "template": {
+    "tag": "Web",
+    "type": "separate",
+    "layout": "0,0,2,3",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "IYF",
+      "icon": "https://iyf.tv/favicon.ico",
+      "action": "link:https://iyf.tv/"
+    },
+    {
+      "title": "KissKH",
+      "icon": "https://kisskh.co/favicon.ico",
+      "action": "link:https://kisskh.co/"
+    }
+  ]
+}
